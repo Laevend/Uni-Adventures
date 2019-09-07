@@ -20,7 +20,7 @@ There is no installation for this type of application. Downloading the source co
   * runner
 3. Inside the lib folder is a framework .jar file called JSFML. Copy/Move this into the runner folder
 4. Inside the src folder is the contents of the entire game. Copy/Move all of these files (including the assets folder) into the runner folder
-5. Inside the runner folder, click ```compileGame``` bat file which will auto-compile the game.
+5. Inside the runner folder, click the ```compileGame``` bat file which will auto-compile the game.
 6. Now click the ```runGame``` bat file which will run the game!
 
 ## Version
