@@ -1,0 +1,67 @@
+					STORY QUESTS WITH MULTIPLE ENDINGS 
+(Format: STORY Number quest (int) : A/B/C... indicating possible outcomes)
+
+2:A Take the drugs
+Obtain "Irresponsible" student summon
+1 in 3 chance for him to show up once summoned
+Double the standard damage of summons
+
+2:B We don't take the drugs
+Obtain "Responsible" student summon
+100% chance to show up once summoned
+Standard attack damage
+
+
+3:A Fight player on way to first lecture 
+Obtain sausage roll
+Late to lecture
+Player gets exhausted
+
+3:B No fight
+On time to lecture
+Gain an intelligence level
+
+
+6:A Feed ducks
+Increase sanity
+Reduce depression
+Gain "Quacky" duck summon
+
+6:B Kick a duck
+"The ducks have started attacking you, everyone is watching and recording"
+Increase stress
+Increase depression
+Ducks will now randomly attack you if they spot you
+
+
+8:A Join Sports Society
+Increase Agility stat
+
+8:B Join CS Society
+Increase Intelligence stat
+
+8:C Join Tinfoil hat Society
+Go insane (sanity meter is full and can no longer go down or up but the stress bar shrinks making it easier to get stressed)
+
+8 : Attend society(REPEAT QUEST EVERYDAY)
+Sports(Increase agility)
+CS(Increase intelligence)
+Tinfoil hat(Gain a random conspiracy theory)
+
+
+9:A Go to sugar
+Exhaustion goes to max
+Makes sanity stat go to normal
+
+9:B Stay home study
+Increase intelligence stat
+Exhaustion goes to max
+
+
+10:A Buy the cheatsheet
+50% chance to be a lecturer in disguise and your intelligence decreases by 5 points
+50% chance to be legit and gain item to use in the exam to complete it
+
+10:B Continue studying
+Intelligence stat increases by 2
+

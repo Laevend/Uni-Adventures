@@ -1,0 +1,4 @@
+[ID],[SpriteRowNumber],[NumberOfFramesToPlay],[Speed],[Sound],[MovementType]
+1,1,4,16,hit,normal
+2,3,4,16,hit,normal
+3,1,4,16,harry,normal

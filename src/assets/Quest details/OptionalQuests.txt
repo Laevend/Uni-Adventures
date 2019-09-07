@@ -1,0 +1,30 @@
+																		SIDE QUESTS 
+										(In the start of the game the player is given a scroll or somethnig called procrastination containing a list of all side quests)
+
+SIDE QUEST #1 : Crack or Caffeine?
+Find the hidden room containing the coffee and crack machines
+Take crack(Exhaustion meter temporarily increases by 4 but then decreases to -2 of the original meter after a while)
+Take coffee(Exhaustion meter permanently increases by 1)
+
+SIDE QUEST #2 : Hater of the people
+Punch a random NPC in the face or in the back
+Initiate battle
+Win battle(receive money/random item)
+Lose battle(lose money/depression stat increases/randomly attacked by "friendly" NPC's)
+
+SIDE QUEST #3 : Finding yourself
+Find yourself(player simply has to go to their mirror and interact with it)
+Gain an intelligent stat for solving this extremely hard riddle
+
+SIDE QUEST #4 : The end is nier?
+Find Emil's head(in the shop hidden as a prop)
+Gain Emil's head as an item(easter egg to Nier Automata)
+
+SIDE QUEST #5 : Technology is evil
+Find the malfunctioning pc in random NPC house
+Beat the pc
+NPC gifts you a latte which lowers your stress and depression levels
+
+
+Complete all SIDE quests and get an item called "Godly potion"
+The item does absolutely nothing when consumed

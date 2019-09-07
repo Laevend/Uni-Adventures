@@ -1,0 +1,7 @@
+5
+[collision]
+0,0,32,736,1,null,0,0,NULL
+0,704,1280,32,1,null,0,0,NULL
+1248,0,32,736,1,null,0,0,NULL
+0,0,1280,32,1,null,0,0,NULL
+512,32,64,64,2,flatRoom1,762,360,FLATROOM1

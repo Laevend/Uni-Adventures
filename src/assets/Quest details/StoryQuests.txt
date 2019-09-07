@@ -1,0 +1,61 @@
+								STORY QUESTS
+
+QUEST #1 : Completing the tutorial
+Learn how to use the arrow keys
+Learn how to interact with objects
+Open the inventory
+Open settings
+Click the save button 
+
+QUEST #2 : Meet your roommates
+Talk to roommates
+Obtain your first summon
+
+QUEST #3 : Your first lecture
+Find your way to the lecture hall
+Pay attention in class
+
+QUEST #4 : Becoming a genius (your stats and you)
+"It's about time you started thinking about what kinda stats you have, well in total you have 6 exciting stats to deal with: "
+
+"Stress - Too much of this and you will end up going insane, relax to bring it down"
+"Agility - Just because you're a CS student doesn't mean you can't be sporty and agile, increase this to dodge easily"
+"Depression - This one is a doozy because uni life is depressing but be sure to NEVER let this one drop low or its game over"
+"Exhaust - Too much of anything can make you sick(or exhausted), even the good can be a curse"
+"Sanity - Better to be sane than insane, right?"
+"Intelligence - Gotta have them smarts to fight harder, smarter and betterer"
+
+"Congrats on achieving the easiest of quests young kobe now continue with the game"
+
+QUEST #5 : Your first coursework assignment
+Head to the computer labs room (OR ANY OTHER RANDOM ROOM THATS ALREADY CODED IN)
+Fight another student
+Obtain stolen coursework
+Hand in your non-plagiarized hard earned coursework
+
+QUEST #6 : Explore the outside
+Find your way out of the main building and into "the outside"
+Meet the ducks
+
+QUEST #7 : URGENT PEE BREAK(more of an exploration quest for user to know the map)
+Player suddenly feels the urge to pee
+Locate the toilets (stress meter slowly increases as time goes by)
+Relieve yourself
+
+QUEST #8 : Becoming a member of Society
+Go to the main Hall 
+Pick between the Sports, CS or Tinyfoil hat Society
+Triggers daily optional quests to attend society
+
+QUEST 9# : Late night shennanigans
+Go sugar or Stay home study
+
+QUEST #10 : Exam
+Prepare for exam (go to library)
+Buy cheatsheet or continue studying
+
+QUEST #? : Obtain Joe Finney's ponytail
+Find his headquarters
+Obtain and hand in relevant coursework
+Battle and beat Joe Finney
+Pick up his lucious locks
