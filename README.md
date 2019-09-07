@@ -26,6 +26,9 @@ There is no installation for this type of application. Downloading the source co
 ## Version
 v1.0
 
+## Dependencies
+* JSFML Framework
+
 ## System Requirements
 * Windows Environment (Other environments may work but not tested)
 * Java 8 Update 201 (or better)
